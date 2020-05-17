@@ -1,53 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1587612391" tv-usec="99948" name="delete selection">
-    <NoteDiffCommand midi-source="5372">
-      <ChangedNotes/>
-      <AddedNotes/>
-      <RemovedNotes>
-        <note id="120368" note="73" channel="0" time="90.045104166666661" length="0.38500000000000512" velocity="100"/>
-      </RemovedNotes>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseContent" zoom="120" left-frame="0" y-origin="334">
-        <Selection>
-          <MIDINotes region-id="5374">
-            <note note-id="120368"/>
-          </MIDINotes>
-          <Marker id="1818" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseContent" zoom="120" left-frame="0" y-origin="334">
-        <Selection>
-          <Marker id="1818" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1587612392" tv-usec="943241" name="delete selection">
-    <NoteDiffCommand midi-source="5372">
-      <ChangedNotes/>
-      <AddedNotes/>
-      <RemovedNotes>
-        <note id="120367" note="73" channel="0" time="90.045104166666661" length="0.38500000000000512" velocity="100"/>
-      </RemovedNotes>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseContent" zoom="120" left-frame="0" y-origin="334">
-        <Selection>
-          <MIDINotes region-id="5374">
-            <note note-id="120367"/>
-          </MIDINotes>
-          <Marker id="1818" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseContent" zoom="120" left-frame="0" y-origin="334">
-        <Selection>
-          <Marker id="1818" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1587612397" tv-usec="142146" name="delete selection">
     <NoteDiffCommand midi-source="5372">
       <ChangedNotes/>
@@ -521,18 +473,18 @@
     <StatefulDiffCommand obj-id="7792" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="7884"/>
           <Add id="7878"/>
-          <Add id="7905"/>
-          <Add id="7911"/>
-          <Add id="7887"/>
           <Add id="7881"/>
+          <Add id="7884"/>
+          <Add id="7887"/>
           <Add id="7890"/>
-          <Add id="7908"/>
-          <Add id="7902"/>
-          <Add id="7899"/>
-          <Add id="7896"/>
           <Add id="7893"/>
+          <Add id="7896"/>
+          <Add id="7899"/>
+          <Add id="7902"/>
+          <Add id="7905"/>
+          <Add id="7908"/>
+          <Add id="7911"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -570,10 +522,10 @@
     <StatefulDiffCommand obj-id="7792" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
+          <Add id="7918"/>
           <Add id="7921"/>
           <Add id="7924"/>
           <Add id="7927"/>
-          <Add id="7918"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -593,6 +545,80 @@
             <Region id="7924"/>
             <Region id="7927"/>
             <Region id="7918"/>
+          </Regions>
+          <Marker id="1818" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1588222883" tv-usec="808710" name="set loop range from region">
+    <MementoCommand obj-id="1818" type-name="ARDOUR::Location">
+      <Location id="1818" name="Loop" start="0" end="1347055" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+      <Location id="1818" name="Loop" start="1154616" end="1250834" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1632" left-frame="0" y-origin="268">
+        <Selection>
+          <Regions>
+            <Region id="5450"/>
+          </Regions>
+          <Marker id="1818" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1632" left-frame="0" y-origin="268">
+        <Selection>
+          <Regions>
+            <Region id="5450"/>
+          </Regions>
+          <Marker id="1818" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1588223037" tv-usec="277081" name="set loop range from region">
+    <MementoCommand obj-id="1818" type-name="ARDOUR::Location">
+      <Location id="1818" name="Loop" start="1154616" end="1250834" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+      <Location id="1818" name="Loop" start="0" end="1347052" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1632" left-frame="0" y-origin="268">
+        <Selection>
+          <Regions>
+            <Region id="5374"/>
+            <Region id="5453"/>
+            <Region id="5450"/>
+            <Region id="5447"/>
+            <Region id="5444"/>
+            <Region id="5441"/>
+            <Region id="5438"/>
+            <Region id="5435"/>
+            <Region id="5432"/>
+            <Region id="5429"/>
+            <Region id="5426"/>
+            <Region id="5423"/>
+            <Region id="5420"/>
+            <Region id="5413"/>
+          </Regions>
+          <Marker id="1818" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1632" left-frame="0" y-origin="268">
+        <Selection>
+          <Regions>
+            <Region id="5374"/>
+            <Region id="5453"/>
+            <Region id="5450"/>
+            <Region id="5447"/>
+            <Region id="5444"/>
+            <Region id="5441"/>
+            <Region id="5438"/>
+            <Region id="5435"/>
+            <Region id="5432"/>
+            <Region id="5429"/>
+            <Region id="5426"/>
+            <Region id="5423"/>
+            <Region id="5420"/>
+            <Region id="5413"/>
           </Regions>
           <Marker id="1818" start="0"/>
         </Selection>

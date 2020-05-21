@@ -4,12 +4,12 @@
     <StatefulDiffCommand obj-id="2326" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="15307"/>
+          <Add id="15301"/>
+          <Add id="15304"/>
           <Add id="15316"/>
           <Add id="15313"/>
           <Add id="15310"/>
-          <Add id="15304"/>
-          <Add id="15301"/>
+          <Add id="15307"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -237,12 +237,12 @@
     <StatefulDiffCommand obj-id="2326" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="15370"/>
-          <Add id="15376"/>
-          <Add id="15373"/>
-          <Add id="15382"/>
-          <Add id="15379"/>
           <Add id="15367"/>
+          <Add id="15379"/>
+          <Add id="15370"/>
+          <Add id="15373"/>
+          <Add id="15376"/>
+          <Add id="15382"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -345,12 +345,12 @@
     <StatefulDiffCommand obj-id="2326" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="15406"/>
           <Add id="15397"/>
-          <Add id="15412"/>
           <Add id="15409"/>
           <Add id="15400"/>
           <Add id="15403"/>
+          <Add id="15406"/>
+          <Add id="15412"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -453,12 +453,12 @@
     <StatefulDiffCommand obj-id="7792" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="15430"/>
-          <Add id="15433"/>
-          <Add id="15427"/>
-          <Add id="15439"/>
           <Add id="15442"/>
+          <Add id="15439"/>
           <Add id="15436"/>
+          <Add id="15433"/>
+          <Add id="15430"/>
+          <Add id="15427"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -561,12 +561,12 @@
     <StatefulDiffCommand obj-id="2326" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="15457"/>
-          <Add id="15460"/>
-          <Add id="15463"/>
           <Add id="15490"/>
-          <Add id="15466"/>
+          <Add id="15460"/>
           <Add id="15469"/>
+          <Add id="15466"/>
+          <Add id="15463"/>
+          <Add id="15457"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -574,11 +574,11 @@
       <Changes>
         <Regions>
           <Add id="15472"/>
-          <Add id="15481"/>
           <Add id="15475"/>
+          <Add id="15478"/>
+          <Add id="15481"/>
           <Add id="15484"/>
           <Add id="15487"/>
-          <Add id="15478"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -793,21 +793,21 @@
     <StatefulDiffCommand obj-id="2326" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
-          <Add id="15529"/>
-          <Add id="15517"/>
-          <Add id="15526"/>
-          <Add id="15523"/>
           <Add id="15532"/>
           <Add id="15520"/>
+          <Add id="15529"/>
+          <Add id="15526"/>
+          <Add id="15523"/>
+          <Add id="15517"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
     <StatefulDiffCommand obj-id="7792" type-name="ARDOUR::MidiPlaylist">
       <Changes>
         <Regions>
+          <Add id="15535"/>
           <Add id="15538"/>
           <Add id="15541"/>
-          <Add id="15535"/>
           <Add id="15544"/>
           <Add id="15547"/>
           <Add id="15550"/>

@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1590554528" tv-usec="575431" name="region drag">
-    <StatefulDiffCommand obj-id="24951" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="2868505" to="2862491"/>
-        <beat from="119.25" to="119"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="207" left-frame="2745027" y-origin="567">
-        <Selection>
-          <Regions>
-            <Region id="24951"/>
-          </Regions>
-          <Marker id="24534" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="207" left-frame="2745027" y-origin="567">
-        <Selection>
-          <Regions>
-            <Region id="24951"/>
-          </Regions>
-          <Marker id="24534" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1590554531" tv-usec="880840" name="Region start trim">
     <StatefulDiffCommand obj-id="24951" type-name="ARDOUR::AudioRegion">
       <Changes>
@@ -516,81 +490,6 @@
           <Regions>
             <Region id="25147"/>
             <Region id="25157"/>
-          </Regions>
-          <Marker id="24534" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1590555656" tv-usec="472187" name="region copy">
-    <StatefulDiffCommand obj-id="24285" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="25223"/>
-          <Add id="25203"/>
-          <Add id="25213"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="828" left-frame="5041692" y-origin="567">
-        <Selection>
-          <Regions>
-            <Region id="24913"/>
-            <Region id="24951"/>
-            <Region id="25157"/>
-          </Regions>
-          <Marker id="24534" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="828" left-frame="5041692" y-origin="567">
-        <Selection>
-          <Regions>
-            <Region id="25203"/>
-            <Region id="25213"/>
-            <Region id="25223"/>
-          </Regions>
-          <Marker id="24534" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1590555666" tv-usec="612515" name="region drag">
-    <StatefulDiffCommand obj-id="25203" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="6025664" to="6031677"/>
-        <beat from="250.5" to="250.75"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="25213" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="3024859" to="3030872"/>
-        <beat from="125.7499962207105" to="125.99996976568406"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="25223" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="3523991" to="3530004"/>
-        <beat from="146.5000037792895" to="146.74997732426303"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="414" left-frame="5726034" y-origin="567">
-        <Selection>
-          <Regions>
-            <Region id="25203"/>
-            <Region id="25213"/>
-            <Region id="25223"/>
-          </Regions>
-          <Marker id="24534" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="414" left-frame="5726034" y-origin="567">
-        <Selection>
-          <Regions>
-            <Region id="25203"/>
-            <Region id="25213"/>
-            <Region id="25223"/>
           </Regions>
           <Marker id="24534" start="1"/>
         </Selection>

@@ -7,22 +7,6 @@
         <length from="692039" to="698053"/>
         <position from="2862491" to="2856477"/>
         <beat from="119" to="118.75"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="24991" interpolation-style="Linear" state="Off">
-              <events>0 1
-692039 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="24992" interpolation-style="Linear" state="Off">
-              <events>0 1
-698053 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
@@ -51,22 +35,6 @@
         <length from="692039" to="698053"/>
         <position from="1707873" to="1701859"/>
         <beat from="71" to="70.75"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="25013" interpolation-style="Linear" state="Off">
-              <events>0 1
-692039 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="25014" interpolation-style="Linear" state="Off">
-              <events>0 1
-698053 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
@@ -95,22 +63,6 @@
         <length from="1398784" to="1368716"/>
         <position from="451023" to="481091"/>
         <beat from="18.750011337868479" to="20"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="25035" interpolation-style="Linear" state="Off">
-              <events>0 1
-1398784 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="25036" interpolation-style="Linear" state="Off">
-              <events>0 1
-1368716 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">

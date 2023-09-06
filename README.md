@@ -9,7 +9,8 @@ We decided to create an experimental recording method. We thought of a way to us
 Since **Ardour** is all controlled by a main code file and distributes the used tracks to folders from that file that it could be version controlled by GitHub. The band could share our sessions and create branches for each new idea track or idea that was made to the song using the full Ardour sessions with audio and all!
 
 Here is the final recording from this experiment
-[![Lorenzo's Music - With you - audio](https://img.youtube.com/vi/LNlU8ZII-BQ/0.jpg)]([https://www.youtube.com/watch?v=LNlU8ZII-BQ](https://www.lorenzosmusic.com/2020/12/with-you-by-lorenzos-music.html?utm_source=github&utm_medium=withyousonglink&utm_campaign=withyoureadme))
+
+[![Lorenzo's Music - With you - audio](https://img.youtube.com/vi/LNlU8ZII-BQ/0.jpg)]([https://www.youtube.com/watch?v=LNlU8ZII-BQ]
 
 You can also **download this song from our website**
 [https://www.lorenzosmusic.com/2020/12/with-you-by-lorenzos-music.html](https://www.lorenzosmusic.com/2020/12/with-you-by-lorenzos-music.html?utm_source=github&utm_medium=withyousonglink&utm_campaign=withyoureadme)

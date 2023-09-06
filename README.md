@@ -10,7 +10,7 @@ Since **Ardour** is all controlled by a main code file and distributes the used 
 
 Here is the final recording from this experiment
 
-[![Lorenzo's Music - With you - audio](https://img.youtube.com/vi/LNlU8ZII-BQ/0.jpg)]([https://www.youtube.com/watch?v=LNlU8ZII-BQ]
+[![cover art illustration](https://img.youtube.com/vi/q99CBbFxQBg/0.jpg)](https://www.youtube.com/watch?v=q99CBbFxQBg)
 
 You can also **download this song from our website**
 [https://www.lorenzosmusic.com/2020/12/with-you-by-lorenzos-music.html](https://www.lorenzosmusic.com/2020/12/with-you-by-lorenzos-music.html?utm_source=github&utm_medium=withyousonglink&utm_campaign=withyoureadme)
